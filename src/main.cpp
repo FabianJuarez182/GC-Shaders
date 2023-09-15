@@ -217,7 +217,7 @@ int main(int argc, char* argv[]) {
 
     // Initialize a Camera object
     Camera camera;
-    camera.cameraPosition = glm::vec3(0.0f, 0.0f, 5.0f);
+    camera.cameraPosition = glm::vec3(0.0f, 0.0f, 2.5f);
     camera.targetPosition = glm::vec3(0.0f, 0.0f, 0.0f);
     camera.upVector = glm::vec3(0.0f, 1.0f, 0.0f);
 
