@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/EXEC.dir/src/framebuffer.cpp.o CMakeFiles/EXEC.dir/src/line.cpp.o CMakeFiles/EXEC.dir/src/ObjLoader.cpp.o CMakeFiles/EXEC.dir/src/texture.cpp.o CMakeFiles/EXEC.dir/src/triangle.cpp.o CMakeFiles/EXEC.dir/src/main.cpp.o  -o EXEC  -lSDL2 /usr/lib/x86_64-linux-gnu/libtbb.so.2 

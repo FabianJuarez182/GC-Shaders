@@ -1,0 +1,1 @@
+/usr/bin/c++   -pg -O3 -DNDEBUG   CMakeFiles/SR.dir/src/ObjLoader.cpp.o CMakeFiles/SR.dir/src/framebuffer.cpp.o CMakeFiles/SR.dir/src/line.cpp.o CMakeFiles/SR.dir/src/main.cpp.o CMakeFiles/SR.dir/src/texture.cpp.o CMakeFiles/SR.dir/src/triangle.cpp.o  -o SR  /usr/lib/x86_64-linux-gnu/libtbb.so.2 -lSDL2 -lSDL2_image 
